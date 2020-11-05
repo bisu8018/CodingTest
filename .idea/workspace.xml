@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68fac213-46b6-468d-9d81-815fb2c00992" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CodingTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. 해시/베스트 앨범/JS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. 해시/베스트 앨범/JS/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. 해시/완주하지 못한 선수/JS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. 해시/완주하지 못한 선수/JS/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. 해시/위장/JS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. 해시/위장/JS/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 스택, 큐/기능개발/JS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 스택, 큐/기능개발/JS/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 스택, 큐/다리를 지나는 트럭/JS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 스택, 큐/다리를 지나는 트럭/JS/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 스택, 큐/프린터/JS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 스택, 큐/프린터/JS/printer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jqoJMceclJfrd273tTjuumNzT0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1. 해시/베스트 앨범" />
+      <recent name="$PROJECT_DIR$/1. 해시" />
+      <recent name="$PROJECT_DIR$/1. 해시/완주하지 못한 선수/JS" />
+      <recent name="$PROJECT_DIR$/2.스택_큐/프린터" />
+      <recent name="$PROJECT_DIR$/2.스택_큐/다리를 지나는 트럭" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2.스택_큐/프린터/JS" />
+      <recent name="$PROJECT_DIR$/2.스택_큐/프린터" />
+      <recent name="$PROJECT_DIR$/2.스택_큐/다리를 지나는 트럭/JS" />
+      <recent name="$PROJECT_DIR$/2.스택_큐/기능개발/JS" />
+      <recent name="$PROJECT_DIR$/2.스택_큐/다리를 지나는 트럭" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="printer.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="$PROJECT_DIR$/2. 스택, 큐/프린터/JS/printer.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.printer.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68fac213-46b6-468d-9d81-815fb2c00992" name="Default Changelist" comment="" />
+      <created>1604540912417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604540912417</updated>
+      <workItem from="1604540914451" duration="4354000" />
+      <workItem from="1604545328745" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1440" height="848" key="GridCell.Tab.0.bottom" timestamp="1604545284403">
+      <screen x="1440" y="-559" width="1920" height="1080" />
+    </state>
+    <state width="1440" height="848" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-559.1920.1080@1440.-559.1920.1080" timestamp="1604545284403" />
+    <state width="1440" height="848" key="GridCell.Tab.0.center" timestamp="1604545284402">
+      <screen x="1440" y="-559" width="1920" height="1080" />
+    </state>
+    <state width="1440" height="848" key="GridCell.Tab.0.center/0.0.1440.900/1440.-559.1920.1080@1440.-559.1920.1080" timestamp="1604545284402" />
+    <state width="1440" height="848" key="GridCell.Tab.0.left" timestamp="1604545284401">
+      <screen x="1440" y="-559" width="1920" height="1080" />
+    </state>
+    <state width="1440" height="848" key="GridCell.Tab.0.left/0.0.1440.900/1440.-559.1920.1080@1440.-559.1920.1080" timestamp="1604545284401" />
+    <state width="1440" height="848" key="GridCell.Tab.0.right" timestamp="1604545284402">
+      <screen x="1440" y="-559" width="1920" height="1080" />
+    </state>
+    <state width="1440" height="848" key="GridCell.Tab.0.right/0.0.1440.900/1440.-559.1920.1080@1440.-559.1920.1080" timestamp="1604545284402" />
+    <state x="2222" y="-117" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604545358978">
+      <screen x="1440" y="-559" width="1920" height="1080" />
+    </state>
+    <state x="2222" y="-117" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/1440.-559.1920.1080@1440.-559.1920.1080" timestamp="1604545358978" />
+  </component>
+</project>
