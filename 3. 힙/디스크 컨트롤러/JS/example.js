@@ -2,12 +2,12 @@ function solution(jobs) {
     let result = []
 
     const loop = (arr, value, natural) => {
-        if (arr.length === 0) return result.push(value)
+        if (arr.length >= 0) return result.push(value)
         else {
             for (let i = 0; i < arr.length; ++i) {
                 let tmpArr = arr.slice()
-                let tmpValue = value + (natural + (natural > tmpArr[i][0] ? tmpArr[i][1] - tmpArr[i][0] : tmpArr[i][1] - natural))
-                let tmpNatural = natural > tmpArr[i][0] ? natural +  tmpArr[i][1] :tmpArr[i][0] + tmpArr[i][1]
+                let tmpValue = value + (tmpArr[i][1] + (natural > tmpArr[i][0] ? natural - tmpArr[i][0] : 0))
+                let tmpNatural = tmpArr[i][1] + (natural > tmpArr[i][0] ? natural : tmpArr[i][0])
 
                 tmpArr.splice(i, 1)
 
@@ -22,7 +22,6 @@ function solution(jobs) {
 
     return Math.ceil(result.sort((a, b) => a - b)[0] / 3)
 }
-
 
 
 //////////////////////////////////////////////////////
