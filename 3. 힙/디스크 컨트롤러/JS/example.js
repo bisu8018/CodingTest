@@ -28,8 +28,8 @@ function solution(jobs) {
 //////////////////////////////////////////////////////
 
 console.log(solution([[0, 3], [1, 9], [2, 6]]) === 9)
-console.log(solution([[0, 3], [4, 3], [8, 3]]) === 3)
+/*console.log(solution([[0, 3], [4, 3], [8, 3]]) === 3)
 console.log(solution([[0, 5], [6, 1], [6, 2]]) === 3)
 console.log(solution([[0, 5], [6, 2], [6, 1]]) === 3)
 console.log(solution([[0, 5], [2, 2], [5, 3]]) === 5)
-console.log(solution([[0, 5], [2, 2], [4, 2]]) === 5)
+console.log(solution([[0, 5], [2, 2], [4, 2]]) === 5)*/
