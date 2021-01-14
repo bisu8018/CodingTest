@@ -40,6 +40,5 @@ function solution(genres, plays) {
 //////////////////////////////////////////////////////
 
 
-console.log(solution(["classic", "pop", "classic", "classic", "pop"], ["classic", "pop", "classic", "classic", "pop"]) === ["classic", "pop", "classic", "classic", "pop"])
 console.log(solution(["classic", "pop", "classic", "classic", "rock"], [500, 600, 150, 800, 2500]) === [4, 3, 0, 1])
 console.log(solution(["classic", "classic", "pop", "classic", "classic", "rock"], [800, 500, 600, 800, 800, 2500]) === [0, 3, 5, 2])
