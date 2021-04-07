@@ -1,5 +1,3 @@
-<img src="./Algorithm.png" alt="algorithm"/>
-
 # 코딩 테스트
 
 일반적인 IT 기업은 소프트웨어 엔지니어 채용 시, 알고리즘에 대한 기본적인 실력을 요구 합니다. 
