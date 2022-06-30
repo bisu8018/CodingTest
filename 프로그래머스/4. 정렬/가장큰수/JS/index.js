@@ -1,0 +1,63 @@
+function solution(numbers) {
+    let answer = numbers
+        .slice()
+        .sort((a, b) => Number(a + '' + b) >= Number(b + '' + a) ? -1 : 1)
+        .join('')
+        .toString()
+
+    return answer[0] === "0" ? "0" : answer
+}
+
+
+//////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
+
+
+console.log(solution([6, 10, 2]) === "6210")
+console.log(solution([3, 30, 34, 5, 9]) === "9534330")
+console.log(solution([3, 30, 34, 5, 9, 100 , 5]) === "95534330100")
+console.log(solution([0,0,0,1,2,3,4,5,6]) === "654321000")
+console.log(solution([20,2,1,3]) === "32201")
+console.log(solution([6, 10, 2]) === "6210")
+console.log(solution([1,2,3,4,5,44]) === "5444321")
+console.log(solution([1,2,3,4,5,66]) === "6654321")
+console.log(solution([1, 11, 111, 1111]) === "1111111111")
+console.log(solution([12,121]) === "12121")
+console.log(solution([1,112]) === "1121")
+console.log(solution([3044,304]) === "3044304")
+console.log(solution([40,405]) === "40540")
+console.log(solution([50,403]) === "50403")
+console.log(solution([50,405]) === "50405")
+console.log(solution([50,404]) === "50404")
+console.log(solution([30,403]) === "40330")
+console.log(solution([30,405]) === "40530")
+console.log(solution([30,404]) === "40430")
+console.log(solution([12,121]) === "12121")
+console.log(solution([2,22 ]) === "222")
+console.log(solution([70,0,0,0]) === "70000")
+console.log(solution([0,0,0,1000]) === "1000000")
+console.log(solution([0,0,0,0]) === "0")
+console.log(solution([0,0,70]) === "7000")
+console.log(solution([0, 0, 0, 0, 0, 0]) === "0")
+console.log(solution([3, 30, 34, 5, 9]) === "9534330")
+console.log(solution([40,404]) === "40440")
+console.log(solution([340,3405]) === "3405340")
+console.log(solution([40, 404]) === "40440")
+console.log(solution([40,405]) === "40540")
+console.log(solution([40,404]) === "40440")
+console.log(solution([2,22,223]) === "223222")
+console.log(solution([41,415]) === "41541")
+console.log(solution([3, 30, 34, 5, 91]) === "91534330")
+console.log(solution([3, 30, 34, 5, 191]) === "534330191")
+console.log(solution([3, 30, 34, 5, 191, 432789]) === "543278934330191")
+console.log(solution([3, 30, 31, 5, 9]) === "9533130")
+console.log(solution([3, 30, 31, 34, 5, 9]) === "953433130")
+console.log(solution([3, 30, 31, 34, 33, 5, 9]) === "95343333130")
+console.log(solution([10, 101]) === "10110")
+console.log(solution([12,1213]) === "121312")
+console.log(solution([40,400]) === "40400")
+console.log(solution([40,403]) === "40403")
+console.log(solution([340,3403]) === "3403403")
+console.log(solution([340,3402]) === "3403402")
+console.log(solution([3054,305]) === "3054305")
+console.log(solution([3, 30, 34, 5, 9, 4, 40, 42]) === "954424034330")
